@@ -1,0 +1,15 @@
+C:\Users\hp\desktop\horffshytu\bin\Debug\net7.0\horffshytu.exe
+C:\Users\hp\desktop\horffshytu\bin\Debug\net7.0\horffshytu.deps.json
+C:\Users\hp\desktop\horffshytu\bin\Debug\net7.0\horffshytu.runtimeconfig.json
+C:\Users\hp\desktop\horffshytu\bin\Debug\net7.0\horffshytu.dll
+C:\Users\hp\desktop\horffshytu\bin\Debug\net7.0\horffshytu.pdb
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.csproj.AssemblyReference.cache
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.AssemblyInfoInputs.cache
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.AssemblyInfo.cs
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.csproj.CoreCompileInputs.cache
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.dll
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\refint\horffshytu.dll
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.pdb
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\horffshytu.genruntimeconfig.cache
+C:\Users\hp\desktop\horffshytu\obj\Debug\net7.0\ref\horffshytu.dll
